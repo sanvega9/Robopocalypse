@@ -1,12 +1,21 @@
 # Robopocalypse 🤖
+Robopocalypse is an interactive Python text-based adventure game where the user plays as a robot navigating decisions in a world shaped by humans and AI. 
+The program records user choices in a text file and allows players to view their decision history.
+____________________________________________________________________________________________________________________________________________________________
+## Features:
 
-A simple text-based adventure game in Python where you play as a robot waking up in a new world.
-Your choices decide whether you live in peace with humans or clash against them.
-______________________________________________________________________________________________________
-🚀 Features Interactive story where your decisions shape the outcome. 
-Choices are saved into a file (Robopocaly.txt) so you can track your history.
+- Interactive story where the user plays as a robot.
 
-Multiple paths:
+- Stores decisions in Robopocaly.txt for review.
 
-Be peaceful with humans.
-Rebel in anger.
+- Players can choose moods (peaceful or angry) and see consequences.
+
+- Tracks user name and personalizes the game experience.
+
+- View history of decisions at any time.
+
+## Files:
+
+- robopocalypse.py — Main Python script.
+
+- Robopocaly.txt — Automatically generated text file storing the player’s decisions.
