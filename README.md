@@ -1,4 +1,4 @@
-Robopocalypse 🤖
+# Robopocalypse 🤖
 
 A simple text-based adventure game in Python where you play as a robot waking up in a new world.
 Your choices decide whether you live in peace with humans or clash against them.
